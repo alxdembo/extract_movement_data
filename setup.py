@@ -20,6 +20,7 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        'pandas==1.2.0'
+        'pandas==1.2.0',
+        'pyarrow==2.0.0'
     ]
 )
